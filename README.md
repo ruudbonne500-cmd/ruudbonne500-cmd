@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hoi, ik ben Ruud
 
-<!--
-**ruudbonne500-cmd/ruudbonne500-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aan het leren bouwen. Windows met WSL2 als werkplek, Python en JavaScript als taal.
 
-Here are some ideas to get you started:
+## Waar ik mee bezig ben
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mijn dev-omgeving opbouwen: WSL2 + Ubuntu, VS Code, Git
+- Automatiseren, zodat saai werk door een script gedaan wordt
+- Online adverteren, vooral Google Ads
+
+## Mijn setup
+
+| Onderdeel | Wat |
+| --- | --- |
+| Systeem | Windows + WSL2 (Ubuntu) |
+| Machine | Intel i7-7700 - 32 GB RAM - SSD + HDD |
+| Editor | VS Code |
+| Talen | Python, JavaScript |
+
+## Waar ik naartoe wil
+
+- [ ] Mijn eerste eigen project publiek zetten
+- [ ] Mijn pc-setup vastleggen in een repo, zodat ik hem kan terugbouwen
+- [ ] Een Google Ads-script schrijven dat me tijd bespaart
+
+---
+
+Nederland
