@@ -20,6 +20,7 @@ Hier staat wat altijd waar is. Korte beslissingen per datum staan in `NOTES.md`.
 - Mijn dev-omgeving opbouwen (WSL2, VS Code, Git).
 - Saai werk automatiseren met scripts.
 - Online adverteren, vooral Google Ads.
+- Klanten binnenhalen via platforms: Trusto en Slimster (sinds 2026-10-01).
 
 ## Doelen
 
