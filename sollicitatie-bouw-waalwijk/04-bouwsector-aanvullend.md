@@ -1,6 +1,6 @@
 # Bouwsector in de regio: aanvullende lijst
 
-Deze lijst bevat bedrijven die niet direct bouwen, maar wel in de bouwsector werken.
+Deze lijst bevat bedrijven in de bouwsector die niet direct bouwen, zoals makelaars, architecten, installateurs en dakdekkers. Materialen- en groothandelsbedrijven zijn bewust weggelaten.
 
 ## LEES DIT EERST
 
@@ -14,24 +14,7 @@ Tip: voor "niet gevonden" is de snelste weg kvk.nl of Google Maps. Daar staan me
 
 ---
 
-## A. Materialen en groothandels
-
-| Bedrijf | Categorie | Plaats | E-mail | Telefoon | Website |
-|---|---|---|---|---|---|
-| Bouwcenter Nelemans (vestiging Oosterhout) | Bouwmarkt, zakelijke verkoop | Oosterhout | niet gevonden | 076-5978000 (hoofdkantoor Etten-Leur) | nelemans.nl |
-| Bouwcenter Nelemans (vestiging Tilburg) | Bouwmarkt, zakelijke verkoop | Tilburg | niet gevonden | niet gevonden | nelemans.nl |
-| Bouwmaat Tilburg | Groothandel en detailhandel bouwmaterialen | Tilburg (Ceramstraat 3) | niet gevonden | niet gevonden | bouwmaat.nl |
-| GAMMA Waalwijk | Bouwmarkt, zakelijke verkoop | Waalwijk | niet gevonden | niet gevonden | gamma.nl |
-| Sloopbedrijf Brabant | Sloop | Tilburg (adres niet bevestigd) | niet gevonden | niet gevonden | niet gevonden |
-| Petje Grondwerken | Grondverzet, bestrating | Tilburg (adres niet bevestigd) | niet gevonden | niet gevonden | niet gevonden |
-| HSB Beton Boringen & Zaagwerken | Beton boren en zagen | Loon op Zand (adres niet bevestigd) | niet gevonden | niet gevonden | niet gevonden |
-| 123 Machineverhuur | Verhuur bouwmaterieel, hoogwerkers, steigers | Tilburg (niet bevestigd) | niet gevonden | niet gevonden | niet gevonden |
-| Oosterom Hoveniers en Groenwerken | Grondwerk, sloopwerk | Loon op Zand | niet gevonden | niet gevonden | niet gevonden |
-| Montage- en Onderhoudsbedrijf Verhoeven | Bouw, wegenbouw | Kaatsheuvel | niet gevonden | niet gevonden | niet gevonden |
-
----
-
-## B. Vastgoed, makelaars, architecten en projectontwikkelaars
+## A. Vastgoed, makelaars, architecten en projectontwikkelaars
 
 | Bedrijf | Categorie | Plaats | E-mail | Telefoon | Website |
 |---|---|---|---|---|---|
@@ -51,7 +34,7 @@ Tip: voor "niet gevonden" is de snelste weg kvk.nl of Google Maps. Daar staan me
 
 ---
 
-## C. Installateurs, dakdekkers, elektra, afbouw en schilders
+## B. Installateurs, dakdekkers, elektra, afbouw en schilders
 
 | Bedrijf | Categorie | Plaats | E-mail | Telefoon | Website |
 |---|---|---|---|---|---|
