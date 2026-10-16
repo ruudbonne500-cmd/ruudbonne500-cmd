@@ -14,6 +14,8 @@ Vorm: `- YYYY-MM-DD: wat besloten of gedaan, waarom.`
 
 - [ ] In claude.ai een Project aanmaken en deze repo via GitHub koppelen (`CLAUDE.md` en `NOTES.md`).
 
+- 2026-10-16: Plan gemaakt voor eigen schildersbedrijf (`schildersbedrijf-plan.md`).
+
 ## Samenvatting oud
 
 (nog leeg)
