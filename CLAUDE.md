@@ -34,6 +34,10 @@ Hier staat wat altijd waar is. Korte beslissingen per datum staan in `NOTES.md`.
 - Geen aannames over wat ik al weet. Leg termen kort uit bij het eerste gebruik.
 - Aan het eind van een sessie: werk `NOTES.md` bij met wat er is besloten of gedaan.
 - Commit met duidelijke berichten in het Nederlands.
+- Leg uit in het klein: korte stappen, en zeg wat iets voor mij betekent.
+- Geef keuzes als genummerde lijst (1, 2, 3). Typ dan maar het cijfer.
+- Deel niets op GitHub of extern zonder dat ik het expliciet vraag. Mijn repo is privé.
+- Als ik alleen "ja" zeg en het niet duidelijk is waar het op slaat: vraag eerst.
 
 ## Hoe chat en Code elkaar bijhouden
 
