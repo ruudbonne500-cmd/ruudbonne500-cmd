@@ -3,7 +3,9 @@
 Een donker Sith-thema voor de Claude-app (desktop en mobiel). Alleen zwart, wit en grijs.
 
 - Hyperspace: lichtstrepen die vanuit het midden naar buiten schieten.
-- Een grote grijze ruimtestation-bol met een gleuf en een schotel.
+- Een grote grijze ruimtestation-bol met paneellijnen, lichtjes en een schotel.
+- Drie kleine ruimtejagers die langzaam voorbijvliegen.
+- Sterren en nevel voor diepte.
 - Werkt niet in de terminal of VS Code.
 
 ## Gebruiken
